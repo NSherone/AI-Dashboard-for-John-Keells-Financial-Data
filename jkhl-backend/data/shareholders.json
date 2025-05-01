@@ -1,0 +1,716 @@
+[
+  {
+    "Shareholder":"Mr S E Captain",
+    "Shares":152991389.0,
+    "Percentage":11.61,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Melstacorp PLC",
+    "Shares":128572406.0,
+    "Percentage":9.75,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Paints & General Industries Limited",
+    "Shares":86673704.0,
+    "Percentage":6.58,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Schroder International Selection Fund",
+    "Shares":42417426.0,
+    "Percentage":3.22,
+    "Year":2019
+  },
+  {
+    "Shareholder":"HWIC Asia Fund",
+    "Shares":36000982.0,
+    "Percentage":2.73,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Mr R S Captain",
+    "Shares":26950930.0,
+    "Percentage":2.04,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Edgbaston Asian Equity Trust",
+    "Shares":33018476.0,
+    "Percentage":2.5,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Norges Bank Account 2",
+    "Shares":21023402.0,
+    "Percentage":1.59,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Aberdeen Standard Asia Focus PLC",
+    "Shares":19793572.0,
+    "Percentage":1.5,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Aberdeen Standard SICAV I - Asia Pacific Equity Fund",
+    "Shares":19898613.0,
+    "Percentage":1.51,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Mr Kandiah Balendra",
+    "Shares":20006476.0,
+    "Percentage":1.52,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Fidelity Fund - Pacific",
+    "Shares":19060108.0,
+    "Percentage":1.45,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Employees Trust Fund Board",
+    "Shares":18834190.0,
+    "Percentage":1.43,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Aberdeen Standard SICAV I - Asian Smaller Companies Fund",
+    "Shares":19600554.0,
+    "Percentage":1.49,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Mrs C S De Fonseka",
+    "Shares":13226598.0,
+    "Percentage":1.0,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Schroder Asian Growth Fund",
+    "Shares":11282414.0,
+    "Percentage":0.86,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Mrs S A J De Fonseka",
+    "Shares":13116826.0,
+    "Percentage":1.0,
+    "Year":2019
+  },
+  {
+    "Shareholder":"LF Ruffer Investment Funds: LF Ruffer Pacific and Emerging Markets Fund",
+    "Shares":11297899.0,
+    "Percentage":0.86,
+    "Year":2019
+  },
+  {
+    "Shareholder":"LF Ruffer Total Return Fund",
+    "Shares":11154285.0,
+    "Percentage":0.85,
+    "Year":2019
+  },
+  {
+    "Shareholder":"Mr S E Captain",
+    "Shares":153211107.0,
+    "Percentage":11.62,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Citigroup Global Markets Limited Agency Trading Prop Securities A\/C",
+    "Shares":141854717.0,
+    "Percentage":10.76,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Melstacorp PLC",
+    "Shares":128917111.0,
+    "Percentage":9.78,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Paints & General Industries Limited",
+    "Shares":93787615.0,
+    "Percentage":7.11,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Schroder International Selection Fund",
+    "Shares":42475806.0,
+    "Percentage":3.22,
+    "Year":2020
+  },
+  {
+    "Shareholder":"HWIC Asia Fund",
+    "Shares":39250982.0,
+    "Percentage":2.98,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Mr R S Captain",
+    "Shares":35733994.0,
+    "Percentage":2.71,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Edgbaston Asian Equity Trust",
+    "Shares":29849703.0,
+    "Percentage":2.26,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Norges Bank Account 2",
+    "Shares":28394516.0,
+    "Percentage":2.15,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Aberdeen Standard Asia Focus PLC",
+    "Shares":22693572.0,
+    "Percentage":1.72,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Aberdeen Standard SICAV I - Asia Pacific Equity Fund",
+    "Shares":19898613.0,
+    "Percentage":1.51,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Mr Kandiah Balendra",
+    "Shares":19511476.0,
+    "Percentage":1.48,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Fidelity Fund - Pacific",
+    "Shares":19060108.0,
+    "Percentage":1.45,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Employees Trust Fund Board",
+    "Shares":18690918.0,
+    "Percentage":1.42,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Aberdeen Standard SICAV I - Asian Smaller Companies Fund",
+    "Shares":16763554.0,
+    "Percentage":1.27,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Mrs C S De Fonseka",
+    "Shares":13668417.0,
+    "Percentage":1.04,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Schroder Asian Growth Fund",
+    "Shares":13164018.0,
+    "Percentage":1.0,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Mrs S A J De Fonseka",
+    "Shares":13122826.0,
+    "Percentage":1.0,
+    "Year":2020
+  },
+  {
+    "Shareholder":"LF Ruffer Investment Funds: LF Ruffer Pacific and Emerging Markets Fund",
+    "Shares":11297899.0,
+    "Percentage":0.86,
+    "Year":2020
+  },
+  {
+    "Shareholder":"LF Ruffer Total Return Fund",
+    "Shares":11154285.0,
+    "Percentage":0.85,
+    "Year":2020
+  },
+  {
+    "Shareholder":"Mr S E Captain",
+    "Shares":150769641.0,
+    "Percentage":11.42,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Citigroup Global Markets Limited Agency Trading Prop Securities A\/C",
+    "Shares":141854717.0,
+    "Percentage":10.75,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Melstacorp PLC",
+    "Shares":128917111.0,
+    "Percentage":9.77,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Paints and General Industries Limited",
+    "Shares":114977303.0,
+    "Percentage":8.71,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Schroder International Selection Fund",
+    "Shares":42475806.0,
+    "Percentage":3.22,
+    "Year":2021
+  },
+  {
+    "Shareholder":"HWIC Asia Fund",
+    "Shares":39250982.0,
+    "Percentage":2.97,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Mr R S Captain",
+    "Shares":35544282.0,
+    "Percentage":2.69,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Norges Bank Account 2",
+    "Shares":31706807.0,
+    "Percentage":2.4,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Aberdeen Standard Asia Focus PLC",
+    "Shares":23873572.0,
+    "Percentage":1.81,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Mr Kandiah Balendra",
+    "Shares":19511476.0,
+    "Percentage":1.48,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Employees Trust Fund Board",
+    "Shares":18709833.0,
+    "Percentage":1.42,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Fidelity Fund - Pacific",
+    "Shares":17880904.0,
+    "Percentage":1.35,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Mrs C S De Fonseka",
+    "Shares":16952586.0,
+    "Percentage":1.28,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Mrs S A J De Fonseka",
+    "Shares":15204230.0,
+    "Percentage":1.15,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Edgbaston Asian Equity Trust",
+    "Shares":14809382.0,
+    "Percentage":1.12,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Chemanex PLC",
+    "Shares":11417835.0,
+    "Percentage":0.87,
+    "Year":2021
+  },
+  {
+    "Shareholder":"LF Ruffer Investment Funds: LF Ruffer Pacific and Emerging Markets Fund",
+    "Shares":11297899.0,
+    "Percentage":0.86,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Mr K N J Balendra",
+    "Shares":10907628.0,
+    "Percentage":0.83,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Schroder Asian Growth Fund",
+    "Shares":10328047.0,
+    "Percentage":0.78,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Employee's Provident Fund",
+    "Shares":10159322.0,
+    "Percentage":0.77,
+    "Year":2021
+  },
+  {
+    "Shareholder":"Paints and General Industries Limited",
+    "Shares":140437428.0,
+    "Percentage":10.14,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Mr S E Captain",
+    "Shares":134220895.0,
+    "Percentage":9.69,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Melstacorp PLC",
+    "Shares":128917111.0,
+    "Percentage":9.31,
+    "Year":2022
+  },
+  {
+    "Shareholder":"HWIC Asia Fund",
+    "Shares":119200760.0,
+    "Percentage":8.61,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Asian Development Bank",
+    "Shares":65042006.0,
+    "Percentage":4.7,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Citigroup Global Markets Limited Agency Trading Prop Securities A\/C",
+    "Shares":61904939.0,
+    "Percentage":4.47,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Schroder International Selection Fund",
+    "Shares":41974590.0,
+    "Percentage":3.03,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Mr R S Captain",
+    "Shares":34405091.0,
+    "Percentage":2.48,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Norges Bank Account 2",
+    "Shares":31901605.0,
+    "Percentage":2.3,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Aberdeen Standard Asia Focus PLC",
+    "Shares":28123572.0,
+    "Percentage":2.03,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Mr Kandiah Balendra",
+    "Shares":19511476.0,
+    "Percentage":1.41,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Employees Trust Fund Board",
+    "Shares":18499897.0,
+    "Percentage":1.34,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Fidelity Fund - Pacific",
+    "Shares":17880904.0,
+    "Percentage":1.29,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Mrs C S De Fonseka",
+    "Shares":17472745.0,
+    "Percentage":1.26,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Mrs S A J De Fonseka",
+    "Shares":15204230.0,
+    "Percentage":1.1,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Edgbaston Asian Equity Trust",
+    "Shares":15142109.0,
+    "Percentage":1.09,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Chemanex PLC",
+    "Shares":12605234.0,
+    "Percentage":0.91,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Sri Lanka Insurance Corporation Limited - Life Fund",
+    "Shares":12270665.0,
+    "Percentage":0.89,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Mr K N J Balendra",
+    "Shares":10907628.0,
+    "Percentage":0.79,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Schroder Asian Growth Fund",
+    "Shares":10328047.0,
+    "Percentage":0.75,
+    "Year":2022
+  },
+  {
+    "Shareholder":"Mr S E Captain",
+    "Shares":134044705.0,
+    "Percentage":9.68,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Melstacorp PLC",
+    "Shares":128917111.0,
+    "Percentage":9.31,
+    "Year":2023
+  },
+  {
+    "Shareholder":"HWIC Asia Fund",
+    "Shares":119200760.0,
+    "Percentage":8.61,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Paints and General Industries Limited",
+    "Shares":100717931.0,
+    "Percentage":7.27,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Asian Development Bank",
+    "Shares":65042006.0,
+    "Percentage":4.7,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Citigroup Global Markets Limited Agency Trading Prop Securities A\/C",
+    "Shares":61904939.0,
+    "Percentage":4.47,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Schroder International Selection Fund",
+    "Shares":44418290.0,
+    "Percentage":3.21,
+    "Year":2023
+  },
+  {
+    "Shareholder":"CIC Holdings PLC",
+    "Shares":35338032.0,
+    "Percentage":2.55,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Aberdeen Standard Asia Focus PLC",
+    "Shares":33398572.0,
+    "Percentage":2.41,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Norges Bank Account 2",
+    "Shares":31901605.0,
+    "Percentage":2.3,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Sri Lanka Insurance Corporation Limited - Life Fund",
+    "Shares":21846511.0,
+    "Percentage":1.58,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Mr Kandiah Balendra",
+    "Shares":19511476.0,
+    "Percentage":1.41,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Employees Trust Fund Board",
+    "Shares":18499897.0,
+    "Percentage":1.34,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Mrs C S De Fonseka",
+    "Shares":17606991.0,
+    "Percentage":1.27,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Edgbaston Asian Equity Trust",
+    "Shares":17520023.0,
+    "Percentage":1.27,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Fidelity Fund - Pacific",
+    "Shares":15244082.0,
+    "Percentage":1.1,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Mrs S A J De Fonseka",
+    "Shares":15204230.0,
+    "Percentage":1.1,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Polypak Secco Limited",
+    "Shares":14937924.0,
+    "Percentage":1.08,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Chemanex PLC",
+    "Shares":13105475.0,
+    "Percentage":0.95,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Sunsuper Superannuation Fund",
+    "Shares":11587196.0,
+    "Percentage":0.84,
+    "Year":2023
+  },
+  {
+    "Shareholder":"Mr S E Captain",
+    "Shares":134044705.0,
+    "Percentage":9.68,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Melstacorp PLC",
+    "Shares":128917111.0,
+    "Percentage":9.31,
+    "Year":2024
+  },
+  {
+    "Shareholder":"HWIC Asia Fund",
+    "Shares":119200760.0,
+    "Percentage":8.61,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Paints and General Industries Limited",
+    "Shares":100717931.0,
+    "Percentage":7.27,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Asian Development Bank",
+    "Shares":65042006.0,
+    "Percentage":4.7,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Citigroup Global Markets Limited Agency Trading Prop Securities A\/C",
+    "Shares":61904939.0,
+    "Percentage":4.47,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Schroder International Selection Fund",
+    "Shares":44418290.0,
+    "Percentage":3.21,
+    "Year":2024
+  },
+  {
+    "Shareholder":"CIC Holdings PLC",
+    "Shares":35338032.0,
+    "Percentage":2.55,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Aberdeen Standard Asia Focus PLC",
+    "Shares":33398572.0,
+    "Percentage":2.41,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Norges Bank Account 2",
+    "Shares":31901605.0,
+    "Percentage":2.3,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Sri Lanka Insurance Corporation Limited - Life Fund",
+    "Shares":21846511.0,
+    "Percentage":1.58,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Mr Kandiah Balendra",
+    "Shares":19511476.0,
+    "Percentage":1.41,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Employees Trust Fund Board",
+    "Shares":18499897.0,
+    "Percentage":1.34,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Mrs C S De Fonseka",
+    "Shares":17606991.0,
+    "Percentage":1.27,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Edgbaston Asian Equity Trust",
+    "Shares":17520023.0,
+    "Percentage":1.27,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Fidelity Fund - Pacific",
+    "Shares":15244082.0,
+    "Percentage":1.1,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Mrs S A J De Fonseka",
+    "Shares":15204230.0,
+    "Percentage":1.1,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Polypak Secco Limited",
+    "Shares":14937924.0,
+    "Percentage":1.08,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Chemanex PLC",
+    "Shares":13105475.0,
+    "Percentage":0.95,
+    "Year":2024
+  },
+  {
+    "Shareholder":"Sunsuper Superannuation Fund",
+    "Shares":11587196.0,
+    "Percentage":0.84,
+    "Year":2024
+  }
+]

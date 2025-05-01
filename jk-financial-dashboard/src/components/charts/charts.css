@@ -1,0 +1,32 @@
+.chart-card {
+  background-color: var(--card-bg);
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: var(--shadow);
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+
+.chart-title {
+  color: var(--text-light);
+  font-size: 1.2rem;
+  font-weight: 600;
+  margin-bottom: 1rem;
+}
+
+.export-btn {
+  margin-right: 0.75rem;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 8px;
+  background-color: #3B82F6;
+  color: white;
+  cursor: pointer;
+  font-weight: bold;
+}
+.export-btn:hover {
+  background-color: #2563eb;
+}

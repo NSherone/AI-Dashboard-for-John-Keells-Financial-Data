@@ -1,0 +1,28 @@
+.key-events-box {
+    background-color: #1e293b;
+    border-left: 5px solid #3b82f6;
+    padding: 1.5rem;
+    margin: -1rem auto 0 3rem;
+    border-radius: 10px;
+    color: #cbd5e1;
+    max-width: 1000px;
+    width: 100%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.key-events-title {
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: var(--text-light);
+  margin-bottom: 1rem;
+}
+
+.event-list {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.event-list li {
+  color: var(--text-light);
+  margin-bottom: 0.5rem;
+}

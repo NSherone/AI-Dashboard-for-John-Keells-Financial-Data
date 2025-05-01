@@ -1,0 +1,24 @@
+.ai-insight-box {
+  background-color: #1e293b;
+  border-left: 5px solid #3b82f6;
+  padding: 1.5rem;
+  margin: -1rem auto 0 auto;
+  border-radius: 10px;
+  color: #cbd5e1;
+  max-width: 1000px;
+  width: 100%;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+
+.insight-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: #ffffff;
+  margin-bottom: 0.5rem;
+}
+
+.insight-text {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #e2e8f0;
+}

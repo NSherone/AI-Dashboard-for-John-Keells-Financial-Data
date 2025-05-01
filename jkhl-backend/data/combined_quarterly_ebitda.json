@@ -1,0 +1,1666 @@
+[
+  {
+    "Year": 2021,
+    "Quarter": "Q1",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "395",
+      "-63"
+    ],
+    "YoY %": [
+      "395",
+      "-63"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q2",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "929",
+      "-16"
+    ],
+    "YoY %": [
+      "929",
+      "-16"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q3",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "930",
+      "-28"
+    ],
+    "YoY %": [
+      "930",
+      "-28"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q4",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "1356",
+      "47"
+    ],
+    "YoY %": [
+      "1356",
+      "47"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q1",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "487",
+      "-42"
+    ],
+    "YoY %": [
+      "487",
+      "-42"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q2",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "953",
+      "30"
+    ],
+    "YoY %": [
+      "953",
+      "30"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q3",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "605",
+      "-16"
+    ],
+    "YoY %": [
+      "605",
+      "-16"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q4",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "1276",
+      "15"
+    ],
+    "YoY %": [
+      "1276",
+      "15"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q1",
+    "Sector": "Retail",
+    "EBITDA": [
+      "502",
+      "-52"
+    ],
+    "YoY %": [
+      "502",
+      "-52"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q2",
+    "Sector": "Retail",
+    "EBITDA": [
+      "1373",
+      "34"
+    ],
+    "YoY %": [
+      "1373",
+      "34"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q3",
+    "Sector": "Retail",
+    "EBITDA": [
+      "1696",
+      "8"
+    ],
+    "YoY %": [
+      "1696",
+      "8"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q4",
+    "Sector": "Retail",
+    "EBITDA": [
+      "1952",
+      "32"
+    ],
+    "YoY %": [
+      "1952",
+      "32"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q1",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "-1461",
+      "-335"
+    ],
+    "YoY %": [
+      "-1461",
+      "-335"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q2",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "-1187",
+      "-1163"
+    ],
+    "YoY %": [
+      "-1187",
+      "-1163"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q3",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "-1008",
+      "-258"
+    ],
+    "YoY %": [
+      "-1008",
+      "-258"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q4",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "84",
+      "-96"
+    ],
+    "YoY %": [
+      "84",
+      "-96"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q1",
+    "Sector": "Property",
+    "EBITDA": [
+      "-29",
+      "-162"
+    ],
+    "YoY %": [
+      "-29",
+      "-162"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q2",
+    "Sector": "Property",
+    "EBITDA": [
+      "-12",
+      "-128"
+    ],
+    "YoY %": [
+      "-12",
+      "-128"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q3",
+    "Sector": "Property",
+    "EBITDA": [
+      "14",
+      "-57"
+    ],
+    "YoY %": [
+      "14",
+      "-57"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q4",
+    "Sector": "Property",
+    "EBITDA": [
+      "10",
+      "-98"
+    ],
+    "YoY %": [
+      "10",
+      "-98"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q1",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "537",
+      "23"
+    ],
+    "YoY %": [
+      "537",
+      "23"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q2",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "652",
+      "16"
+    ],
+    "YoY %": [
+      "652",
+      "16"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q3",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "1300",
+      "12"
+    ],
+    "YoY %": [
+      "1300",
+      "12"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q4",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "1156",
+      "39"
+    ],
+    "YoY %": [
+      "1156",
+      "39"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q1",
+    "Sector": "Other, incl. Information Technology and Plantation Services",
+    "EBITDA": [
+      "371",
+      "-24"
+    ],
+    "YoY %": [
+      "371",
+      "-24"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q2",
+    "Sector": "Other, incl. Information Technology and Plantation Services",
+    "EBITDA": [
+      "608",
+      "39"
+    ],
+    "YoY %": [
+      "608",
+      "39"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q3",
+    "Sector": "Other, incl. Information Technology and Plantation Services",
+    "EBITDA": [
+      "748",
+      "242"
+    ],
+    "YoY %": [
+      "748",
+      "242"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q4",
+    "Sector": "Other, incl. Information Technology and Plantation Services",
+    "EBITDA": [
+      "1373",
+      "606"
+    ],
+    "YoY %": [
+      "1373",
+      "606"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q1",
+    "Sector": "Group",
+    "EBITDA": [
+      "802",
+      "-78"
+    ],
+    "YoY %": [
+      "802",
+      "-78"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q2",
+    "Sector": "Group",
+    "EBITDA": [
+      "3316",
+      "-18"
+    ],
+    "YoY %": [
+      "3316",
+      "-18"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q3",
+    "Sector": "Group",
+    "EBITDA": [
+      "4285",
+      "-24"
+    ],
+    "YoY %": [
+      "4285",
+      "-24"
+    ]
+  },
+  {
+    "Year": 2021,
+    "Quarter": "Q4",
+    "Sector": "Group",
+    "EBITDA": [
+      "7206",
+      "30"
+    ],
+    "YoY %": [
+      "7206",
+      "30"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q1",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "1023",
+      "159"
+    ],
+    "YoY %": [
+      "1023",
+      "159"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q2",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "1201",
+      "29"
+    ],
+    "YoY %": [
+      "1201",
+      "29"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q3",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "1396",
+      "50"
+    ],
+    "YoY %": [
+      "1396",
+      "50"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q4",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "2521",
+      "86"
+    ],
+    "YoY %": [
+      "2521",
+      "86"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q1",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "318",
+      "-35"
+    ],
+    "YoY %": [
+      "318",
+      "-35"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q2",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "600",
+      "-37"
+    ],
+    "YoY %": [
+      "600",
+      "-37"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q3",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "1004",
+      "66"
+    ],
+    "YoY %": [
+      "1004",
+      "66"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q4",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "1563",
+      "22"
+    ],
+    "YoY %": [
+      "1563",
+      "22"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q1",
+    "Sector": "Retail",
+    "EBITDA": [
+      "1563",
+      "211"
+    ],
+    "YoY %": [
+      "1563",
+      "211"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q2",
+    "Sector": "Retail",
+    "EBITDA": [
+      "1328",
+      "-3"
+    ],
+    "YoY %": [
+      "1328",
+      "-3"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q3",
+    "Sector": "Retail",
+    "EBITDA": [
+      "2275",
+      "34"
+    ],
+    "YoY %": [
+      "2275",
+      "34"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q4",
+    "Sector": "Retail",
+    "EBITDA": [
+      "2384",
+      "22"
+    ],
+    "YoY %": [
+      "2384",
+      "22"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q1",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "-649",
+      "56"
+    ],
+    "YoY %": [
+      "-649",
+      "56"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q2",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "-46",
+      "96"
+    ],
+    "YoY %": [
+      "-46",
+      "96"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q3",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "1234",
+      "222"
+    ],
+    "YoY %": [
+      "1234",
+      "222"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q4",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "3247",
+      "4709"
+    ],
+    "YoY %": [
+      "3247",
+      "4709"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q1",
+    "Sector": "Property",
+    "EBITDA": [
+      "542",
+      "1978"
+    ],
+    "YoY %": [
+      "542",
+      "1978"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q2",
+    "Sector": "Property",
+    "EBITDA": [
+      "1261",
+      "10290"
+    ],
+    "YoY %": [
+      "1261",
+      "10290"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q3",
+    "Sector": "Property",
+    "EBITDA": [
+      "707",
+      "5037"
+    ],
+    "YoY %": [
+      "707",
+      "5037"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q4",
+    "Sector": "Property",
+    "EBITDA": [
+      "5356",
+      "52732"
+    ],
+    "YoY %": [
+      "5356",
+      "52732"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q1",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "770",
+      "43"
+    ],
+    "YoY %": [
+      "770",
+      "43"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q2",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "982",
+      "51"
+    ],
+    "YoY %": [
+      "982",
+      "51"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q3",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "2111",
+      "62"
+    ],
+    "YoY %": [
+      "2111",
+      "62"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q4",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "1161",
+      "0"
+    ],
+    "YoY %": [
+      "1161",
+      "0"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q1",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "1197",
+      "222"
+    ],
+    "YoY %": [
+      "1197",
+      "222"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q2",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "1079",
+      "78"
+    ],
+    "YoY %": [
+      "1079",
+      "78"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q3",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "803",
+      "7"
+    ],
+    "YoY %": [
+      "803",
+      "7"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q4",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "2329",
+      "72"
+    ],
+    "YoY %": [
+      "2329",
+      "72"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q1",
+    "Sector": "Group",
+    "EBITDA": [
+      "4764",
+      "494"
+    ],
+    "YoY %": [
+      "4764",
+      "494"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q2",
+    "Sector": "Group",
+    "EBITDA": [
+      "6405",
+      "93"
+    ],
+    "YoY %": [
+      "6405",
+      "93"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q3",
+    "Sector": "Group",
+    "EBITDA": [
+      "9530",
+      "122"
+    ],
+    "YoY %": [
+      "9530",
+      "122"
+    ]
+  },
+  {
+    "Year": 2022,
+    "Quarter": "Q4",
+    "Sector": "Group",
+    "EBITDA": [
+      "18559",
+      "159"
+    ],
+    "YoY %": [
+      "18559",
+      "159"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q1",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "4551",
+      "345"
+    ],
+    "YoY %": [
+      "4551",
+      "345"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q2",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "3035",
+      "153"
+    ],
+    "YoY %": [
+      "3035",
+      "153"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q3",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "2840",
+      "103"
+    ],
+    "YoY %": [
+      "2840",
+      "103"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q4",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "1537",
+      "-39"
+    ],
+    "YoY %": [
+      "1537",
+      "-39"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q1",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "1233",
+      "288"
+    ],
+    "YoY %": [
+      "1233",
+      "288"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q2",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "1009",
+      "68"
+    ],
+    "YoY %": [
+      "1009",
+      "68"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q3",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "402",
+      "-60"
+    ],
+    "YoY %": [
+      "402",
+      "-60"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q4",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "540",
+      "-65"
+    ],
+    "YoY %": [
+      "540",
+      "-65"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q1",
+    "Sector": "Retail",
+    "EBITDA": [
+      "2319",
+      "48"
+    ],
+    "YoY %": [
+      "2319",
+      "48"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q2",
+    "Sector": "Retail",
+    "EBITDA": [
+      "1963",
+      "48"
+    ],
+    "YoY %": [
+      "1963",
+      "48"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q3",
+    "Sector": "Retail",
+    "EBITDA": [
+      "2320",
+      "2"
+    ],
+    "YoY %": [
+      "2320",
+      "2"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q4",
+    "Sector": "Retail",
+    "EBITDA": [
+      "2176",
+      "-9"
+    ],
+    "YoY %": [
+      "2176",
+      "-9"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q1",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "1869",
+      "-388"
+    ],
+    "YoY %": [
+      "1869",
+      "-388"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q2",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "1005",
+      "-2278"
+    ],
+    "YoY %": [
+      "1005",
+      "-2278"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q3",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "1898",
+      "54"
+    ],
+    "YoY %": [
+      "1898",
+      "54"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q4",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "3831",
+      "18"
+    ],
+    "YoY %": [
+      "3831",
+      "18"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q1",
+    "Sector": "Property",
+    "EBITDA": [
+      "-140",
+      "-126"
+    ],
+    "YoY %": [
+      "-140",
+      "-126"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q2",
+    "Sector": "Property",
+    "EBITDA": [
+      "-279",
+      "-122"
+    ],
+    "YoY %": [
+      "-279",
+      "-122"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q3",
+    "Sector": "Property",
+    "EBITDA": [
+      "-312",
+      "-144"
+    ],
+    "YoY %": [
+      "-312",
+      "-144"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q4",
+    "Sector": "Property",
+    "EBITDA": [
+      "466",
+      "-91"
+    ],
+    "YoY %": [
+      "466",
+      "-91"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q1",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "877",
+      "14"
+    ],
+    "YoY %": [
+      "877",
+      "14"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q2",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "1104",
+      "12"
+    ],
+    "YoY %": [
+      "1104",
+      "12"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q3",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "2571",
+      "22"
+    ],
+    "YoY %": [
+      "2571",
+      "22"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q4",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "1899",
+      "64"
+    ],
+    "YoY %": [
+      "1899",
+      "64"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q1",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "2623",
+      "119"
+    ],
+    "YoY %": [
+      "2623",
+      "119"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q2",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "1457",
+      "35"
+    ],
+    "YoY %": [
+      "1457",
+      "35"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q3",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "1746",
+      "117"
+    ],
+    "YoY %": [
+      "1746",
+      "117"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q4",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "1198",
+      "-49"
+    ],
+    "YoY %": [
+      "1198",
+      "-49"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q1",
+    "Sector": "Group",
+    "EBITDA": [
+      "13333",
+      "180"
+    ],
+    "YoY %": [
+      "13333",
+      "180"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q2",
+    "Sector": "Group",
+    "EBITDA": [
+      "9294",
+      "45"
+    ],
+    "YoY %": [
+      "9294",
+      "45"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q3",
+    "Sector": "Group",
+    "EBITDA": [
+      "11465",
+      "20"
+    ],
+    "YoY %": [
+      "11465",
+      "20"
+    ]
+  },
+  {
+    "Year": 2023,
+    "Quarter": "Q4",
+    "Sector": "Group",
+    "EBITDA": [
+      "11647",
+      "-37"
+    ],
+    "YoY %": [
+      "11647",
+      "-37"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q1",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "1615",
+      "-65"
+    ],
+    "YoY %": [
+      "1615",
+      "-65"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q2",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "1700",
+      "-44"
+    ],
+    "YoY %": [
+      "1700",
+      "-44"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q3",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "1928",
+      "-32"
+    ],
+    "YoY %": [
+      "1928",
+      "-32"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q4",
+    "Sector": "Transportation",
+    "EBITDA": [
+      "2328",
+      "-51"
+    ],
+    "YoY %": [
+      "2328",
+      "-51"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q1",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "720",
+      "-42"
+    ],
+    "YoY %": [
+      "720",
+      "-42"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q2",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "1237",
+      "23"
+    ],
+    "YoY %": [
+      "1237",
+      "23"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q3",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "897",
+      "123"
+    ],
+    "YoY %": [
+      "897",
+      "123"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q4",
+    "Sector": "Consumer Foods",
+    "EBITDA": [
+      "2140",
+      "297"
+    ],
+    "YoY %": [
+      "2140",
+      "297"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q1",
+    "Sector": "Retail",
+    "EBITDA": [
+      "1987",
+      "-14"
+    ],
+    "YoY %": [
+      "1987",
+      "-14"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q2",
+    "Sector": "Retail",
+    "EBITDA": [
+      "1983",
+      "1"
+    ],
+    "YoY %": [
+      "1983",
+      "1"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q3",
+    "Sector": "Retail",
+    "EBITDA": [
+      "2390",
+      "3"
+    ],
+    "YoY %": [
+      "2390",
+      "3"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q4",
+    "Sector": "Retail",
+    "EBITDA": [
+      "2402",
+      "10"
+    ],
+    "YoY %": [
+      "2402",
+      "10"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q1",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "284",
+      "-85"
+    ],
+    "YoY %": [
+      "284",
+      "-85"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q2",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "1065",
+      "6"
+    ],
+    "YoY %": [
+      "1065",
+      "6"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q3",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "2560",
+      "35"
+    ],
+    "YoY %": [
+      "2560",
+      "35"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q4",
+    "Sector": "Leisure",
+    "EBITDA": [
+      "5150",
+      "34"
+    ],
+    "YoY %": [
+      "5150",
+      "34"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q1",
+    "Sector": "Property",
+    "EBITDA": [
+      "187",
+      "234"
+    ],
+    "YoY %": [
+      "187",
+      "234"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q2",
+    "Sector": "Property",
+    "EBITDA": [
+      "-435",
+      "-56"
+    ],
+    "YoY %": [
+      "-435",
+      "-56"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q3",
+    "Sector": "Property",
+    "EBITDA": [
+      "60",
+      "119"
+    ],
+    "YoY %": [
+      "60",
+      "119"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q4",
+    "Sector": "Property",
+    "EBITDA": [
+      "-634",
+      "-236"
+    ],
+    "YoY %": [
+      "-634",
+      "-236"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q1",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "1693",
+      "93"
+    ],
+    "YoY %": [
+      "1693",
+      "93"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q2",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "1702",
+      "54"
+    ],
+    "YoY %": [
+      "1702",
+      "54"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q3",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "4040",
+      "57"
+    ],
+    "YoY %": [
+      "4040",
+      "57"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q4",
+    "Sector": "Financial Services",
+    "EBITDA": [
+      "1861",
+      "-2"
+    ],
+    "YoY %": [
+      "1861",
+      "-2"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q1",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "1693",
+      "-26"
+    ],
+    "YoY %": [
+      "1693",
+      "-26"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q2",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "810",
+      "-44"
+    ],
+    "YoY %": [
+      "810",
+      "-44"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q3",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "1466",
+      "-16"
+    ],
+    "YoY %": [
+      "1466",
+      "-16"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q4",
+    "Sector": "Other, including Information Technology and Plantation Services",
+    "EBITDA": [
+      "725",
+      "-40"
+    ],
+    "YoY %": [
+      "725",
+      "-40"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q1",
+    "Sector": "Group",
+    "EBITDA": [
+      "8422",
+      "-37"
+    ],
+    "YoY %": [
+      "8422",
+      "-37"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q2",
+    "Sector": "Group",
+    "EBITDA": [
+      "8061",
+      "-13"
+    ],
+    "YoY %": [
+      "8061",
+      "-13"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q3",
+    "Sector": "Group",
+    "EBITDA": [
+      "13342",
+      "16"
+    ],
+    "YoY %": [
+      "13342",
+      "16"
+    ]
+  },
+  {
+    "Year": 2024,
+    "Quarter": "Q4",
+    "Sector": "Group",
+    "EBITDA": [
+      "13971",
+      "20"
+    ],
+    "YoY %": [
+      "13971",
+      "20"
+    ]
+  }
+]
